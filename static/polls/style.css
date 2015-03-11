@@ -1,0 +1,8 @@
+li a {
+    color: green;
+}
+
+body {
+    background: white url("images/grey.jpg") center;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
